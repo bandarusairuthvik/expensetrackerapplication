@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Expense Tracker Web 💰 React
 
 Simple income/expense tracker app web frontend built with React and 💕
@@ -64,3 +65,7 @@ Additionally I have added a custom template in the `extra` folder. The template 
 This project is solely made for learning purposes. The structure of the project and the code practices may prove useful to  new learners who are exploring new technologies.
 
 Spare a ⭐ to keep me motivated. 😃
+=======
+# expensetrackerapplication
+Expense Tracker Application using React
+>>>>>>> 184853c3cdc9d5d0137635a717d8c84089051f95
